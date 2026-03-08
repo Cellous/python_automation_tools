@@ -1,13 +1,30 @@
-# 🛠️ Python Automation Tools
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-A collection of beginner-to-intermediate level Python scripts for automating routine tasks such as cleaning CSV files and resizing images.
+# Python Automation Toolkit
 
-## 🧾 Scripts Included
-- `csv_cleaner.py`: Cleans up messy CSV files by removing empty rows and standardizing delimiters.
-- `image_resizer.py`: Resizes images to a standard dimension for web optimization.
+Production-ready Python automation utilities designed to streamline data preprocessing and media optimization workflows for analytics teams, freelancers, and small businesses.
 
-## 📌 How to Use
-1. Install requirements with: `pip install -r requirements.txt`
-2. Run scripts using: `python script_name.py`
+---
 
-> Ideal for freelancers, data entry, or small business tasks.
+## Features
+
+### 1️⃣ CSV Cleaner
+- Removes empty rows
+- Standardizes delimiters
+- Prepares messy exports for dashboards or database ingestion
+
+### 2️⃣ Image Resizer
+- Bulk image resizing
+- Standardized dimensions
+- Web optimization support
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/Cellous/python_automation_tools.git
+cd python_automation_tools
+pip install -r requirements.txt
