@@ -8,6 +8,21 @@ Production-ready Python automation utilities designed to streamline data preproc
 
 ---
 
+## Example
+
+Before:
+| Name | Sales |
+|------|-------|
+|      |       |
+| John | 500   |
+
+After:
+| Name | Sales |
+|------|-------|
+| John | 500   |
+
+---
+
 ## Features
 
 ### 1️⃣ CSV Cleaner
